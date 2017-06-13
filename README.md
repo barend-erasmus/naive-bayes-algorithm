@@ -36,6 +36,7 @@ evidence = Probability that is going to be 'Windy'.
 evidence = 4 / 11 = 0.36
 
 posterior = prior x likelihood / evidence
+
 posterior = 0.27 x 0.33 / 0.36 = 0.25
 
 # Gaussian naive Bayes
