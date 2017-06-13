@@ -20,6 +20,7 @@ posterior = prior x likelihood / evidence
 |   Sunny   |   Car                 |
 |   Windy   |   Car                 |
 
+
 What are the probability that Bob will take choose 'Bike' on a 'Windy' day?
 
 prior = Probability that Bob will choose a Bike on given he does not know the weather.
