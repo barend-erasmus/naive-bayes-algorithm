@@ -6,19 +6,19 @@ In machine learning, naive Bayes classifiers are a family of simple probabilisti
 
 posterior = prior x likelihood / evidence
 
-|   Weather |   Transport Method    |
-|-----------|-----------------------|
-|   Cloudy  |   Car                 |
-|   Sunny   |   Bike                |
-|   Rainy   |   Car                 |
-|   Windy   |   Car                 |
-|   Windy   |   Bike                |
-|   Sunny   |   Car                 |
-|   Windy   |   Car                 |
-|   Sunny   |   Bike                |
-|   Rainy   |   Car                 |
-|   Sunny   |   Car                 |
-|   Windy   |   Car                 |
+|   Weather     |   Transport Method    |
+|---------------|-----------------------|
+|   Cloudy      |   Car                 |
+|   Sunny       |   Bike                |
+|   Rainy       |   Car                 |
+|   Windy       |   Car                 |
+|   Windy       |   Bike                |
+|   Sunny       |   Car                 |
+|   Windy       |   Car                 |
+|   Sunny       |   Bike                |
+|   Rainy       |   Car                 |
+|   Sunny       |   Car                 |
+|   Windy       |   Car                 |
 
 
 What are the probability that Bob will take choose 'Bike' on a 'Windy' day?
