@@ -23,11 +23,11 @@ posterior = prior x likelihood / evidence
 
 What are the probability that Bob will take choose 'Bike' on a 'Windy' day?
 
-prior = Probability that Bob will choose a Bike on given he does not know the weather.
+prior = Probability that Bob will choose a Bike given he does not know the weather.
 
 prior = 3 / 11 = 0.27
 
-likelihood = Probability that Bob will choose a Bike on given he does know it's 'Windy'.
+likelihood = Probability that Bob will choose a Bike given he does know it's 'Windy'.
 
 likelihood = 1 / 3 = 0.33
 
@@ -39,7 +39,7 @@ posterior = prior x likelihood / evidence
 
 posterior = 0.27 x 0.33 / 0.36 = 0.25
 
-# Gaussian naive Bayes
+# Gaussian Naive Bayes
 
 posterior = (1 / sqrt(2 x PI x variance)) x exp((-x - mean) ^ 2 / (2 x variance))
 
