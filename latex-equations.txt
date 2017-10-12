@@ -1,0 +1,1 @@
+posterior = \frac{1}{\sqrt{2 * PI}} e^{-\frac{(u -x)^2}{2 * O^2}}

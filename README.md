@@ -41,7 +41,7 @@ posterior = 0.27 x 0.33 / 0.36 = 0.25
 
 # Gaussian Naive Bayes
 
-posterior = (1 / sqrt(2 x PI x variance)) x exp((-x - mean) ^ 2 / (2 x variance))
+posterior = \frac{1}{\sqrt{2 * PI}} e^{-\frac{(u -x)^2}{2 * O^2}}
 
 
 
